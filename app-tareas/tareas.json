@@ -1,0 +1,14 @@
+[
+    {
+        "titulo":   "Estudiar",
+        "estado":   "en progreso"
+    },
+    {
+        "titulo":   "Ordenar la casa",
+        "estado":   "pendiente"
+    },
+    {
+        "titulo":   "Pasear al perro",
+        "estado":   "terminada"
+    }
+]
